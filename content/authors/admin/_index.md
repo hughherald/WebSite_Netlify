@@ -20,7 +20,7 @@ social:
     link: https://github.com/hughherald
 organizations:
   - name: Shenzhen University
-    url: https://www.szu.edu.cn/
+    url: https://bme.szu.edu.cn/
 education:
   courses:
     - course: PhD in Mechanical and Electronic Engineering
