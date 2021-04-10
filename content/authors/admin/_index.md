@@ -5,9 +5,8 @@ avatar_filename: 01211161s.jpg
 bio: My research interests include Biosignal Processing, Brain Computer
   Interface and Neural Prosthetics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biosignal Processing
+  - Brain Computer Interface and Neural Prosthetics
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shenzhen University
+    url: https://www.szu.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
