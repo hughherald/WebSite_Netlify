@@ -1,9 +1,9 @@
 ---
 title: Huang Gan
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 avatar_filename: 01211161s.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Biosignal Processing, Brain Computer
+  Interface and Neural Prosthetics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
