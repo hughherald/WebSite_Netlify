@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: Ocean
 day_night: true
-font: ''
+font: 'Classic'
 font_size: L
 
 # SEO
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: huanggan@szu.edu.cn
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
