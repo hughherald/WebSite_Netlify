@@ -6,7 +6,8 @@ bio: My research interests include Biosignal Processing, Brain Computer
   Interface and Neural Prosthetics.
 interests:
   - Biosignal Processing
-  - Brain Computer Interface and Neural Prosthetics
+  - Brain Computer Interface
+  - Neural Prosthetics
 social:
   - icon: envelope
     icon_pack: fas
