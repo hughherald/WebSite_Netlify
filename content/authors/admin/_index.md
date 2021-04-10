@@ -29,15 +29,15 @@ organizations:
     url: https://www.szu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Mechanical and Electronic Engineering
+      institution: Shanghai Jiao Tong Univesity
+      year: 2013
+    - course: MEng in Applied Mathematics
+      institution: Southeast University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - year: 2005
+      institution: Southeast University
+      course: BSc in Information and Computing Science
 email: ""
 superuser: true
 highlight_name: false
