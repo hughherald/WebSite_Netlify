@@ -23,8 +23,8 @@ organizations:
     url: https://bme.szu.edu.cn/
 education:
   courses:
-    - course: PhD in Mechanical and Electronic Engineering
-      institution: Shanghai Jiao Tong Univesity
+    - course: 博士，机械电子工程<br>PhD in Mechanical and Electronic Engineering
+      institution: 上海交通大学/Shanghai Jiao Tong Univesity
       year: 2013
     - course: MEng in Applied Mathematics
       institution: Southeast University
