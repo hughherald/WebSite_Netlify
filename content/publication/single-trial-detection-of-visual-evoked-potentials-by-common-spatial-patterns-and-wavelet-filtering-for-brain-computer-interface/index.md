@@ -5,11 +5,11 @@ publication_types:
   - "1"
 authors:
   - Yiheng Tu
-  - Gan Huang
+  - **Gan Huang**
   - Yeung Sam Hung
   - Li Hu
   - Yong Hu
-  - and Zhiguo Zhang
+  - Zhiguo Zhang
 doi: 10.1109/EMBC.2013.6610142
 publication: 35th Annual International Conference of the IEEE EMBS
 abstract: Event-related potentials (ERPs) are widely used in brain-computer
