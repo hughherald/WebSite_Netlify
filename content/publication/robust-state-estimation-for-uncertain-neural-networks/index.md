@@ -9,6 +9,7 @@ authors:
 author_notes: []
 doi: 10.3969/j.issn.1007-2985.2008.02.010
 publication: Journal of Jishou University (Natural Sciences Edition)
+publication_short: J. Jishou Univ. Nat. Sci. Ed.
 abstract: "The robust state estimation problem for uncertain neural network is
   studied in this paper. As the uncertainty of the parameter, the states of the
   estimator can’t be complete synchronous with the neural network,
