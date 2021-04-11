@@ -21,7 +21,8 @@ abstract: "The robust state estimation problem for uncertain neural network is
   effectiveness of the conclusion. "
 draft: false
 featured: false
-tags: []
+tags:
+  - neural dynamic
 categories:
   - neural dynamic
 image:
