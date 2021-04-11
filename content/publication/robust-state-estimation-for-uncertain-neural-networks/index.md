@@ -4,7 +4,7 @@ subtitle: 对参数不确定神经网络的鲁棒状态估计
 publication_types:
   - "2"
 authors:
-  - Huang Gan
+  - Admin
   - Cao Jinde
 author_notes: []
 doi: 10.3969/j.issn.1007-2985.2008.02.010
