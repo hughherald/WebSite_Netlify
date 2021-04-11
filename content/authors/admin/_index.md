@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include Neural Modulation, Brain Computer
   Interface and Neural Prosthetics.
 interests:
-  - Neural Modulation
-  - Brain Computer Interface
-  - Neural Prosthetics
+  - 神经调控/Neural Modulation
+  - 脑机接口/Brain Computer Interface
+  - 神经假肢/Neural Prosthetics
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://github.com/hughherald
 organizations:
-  - name: Shenzhen University
+  - name: 深圳大学/Shenzhen University
     url: https://bme.szu.edu.cn/
 education:
   courses:
