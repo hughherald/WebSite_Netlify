@@ -5,7 +5,7 @@ publication_types:
   - "1"
 authors:
   - Yiheng Tu
-  - Gan Huang
+  - gan-huang
   - Yeung Sam Hung
   - Li Hu
   - Yong Hu
