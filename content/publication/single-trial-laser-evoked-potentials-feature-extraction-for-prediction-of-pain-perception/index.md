@@ -9,6 +9,7 @@ authors:
   - Li Hu
   - Yeung Sam Hung
   - Zhiguo Zhang
+doi: 10.1109/EMBC.2013.6610473
 publication: 35th Annual International Conference of the IEEE EMBS
 abstract: Pain is a highly subjective experience, and the availability of an
   objective assessment of pain perception would be of great importance for both
