@@ -40,4 +40,4 @@ highlight_name: true
 
 Dr. Huang Gan is a assistant professor in School of Biomedical Engineering, Health Science Center, Shenzhen University. His research interests include neural modulation, brain computer interface and neural prosthetics. He aims to the research of robust neural signal decoding methods among different users, different times, and different tasks, and develop accurate neural modulation technology based on real-time neural decoding. At the same time, he actively applies the research results to human-computer interaction, neural rehabilitation, cognitive regulation, and other aspects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
