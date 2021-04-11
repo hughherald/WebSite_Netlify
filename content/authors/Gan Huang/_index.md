@@ -2,8 +2,8 @@
 title: Gan Huang
 role: 助理教授/Assistant Professor
 avatar_filename: avatar.jpg
-bio: My research interests include Neural Modulation, Brain Computer
-  Interface and Neural Prosthetics.
+bio: My research interests include Neural Modulation, Brain Computer Interface
+  and Neural Prosthetics.
 interests:
   - 神经调控/Neural Modulation
   - 脑机接口/Brain Computer Interface
@@ -33,7 +33,7 @@ education:
       institution: 东南大学/Southeast University
       year: 2005
 email: huanggan@szu.edu.cn
-superuser: true
+superuser: false
 highlight_name: true
 ---
 黄淦博士是深圳大学医学部生物医学工程学院助理教授。他的主要研究方向包括神经调控，脑机接口，神经假肢，致力于研究不同用户、不同时间、不同任务下鲁棒神经信号解码方法，并在实时解码的基础上发展精准的神经调控技术。同时，他积极将研究成果应用于人机交互，神经康复，认知调控等方面。
