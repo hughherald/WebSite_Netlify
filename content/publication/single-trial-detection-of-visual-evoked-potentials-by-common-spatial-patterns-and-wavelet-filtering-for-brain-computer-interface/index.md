@@ -26,9 +26,11 @@ abstract: Event-related potentials (ERPs) are widely used in brain-computer
 draft: false
 featured: false
 tags:
-  - EEG decoding
+  - EEG
+  - decoding
 categories:
-  - EEG decoding
+  - EEG
+  - decoding
 image:
   filename: title.png
   focal_point: Smart
