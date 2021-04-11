@@ -36,8 +36,12 @@ email: huanggan@szu.edu.cn
 superuser: true
 highlight_name: true
 ---
+ 黄淦博士目前是深圳大学医学部生物医学工程学院助理教授。他的研究方向个性化的神经解码与调控，主要研究兴趣在于脑机接口，神经假肢。 目前以第一作者或合作者的形式在国内外高水平杂志 Neuroimage，Neural Network，Neurocomputing 杂志发表 SCI 论文 19 篇，会议论文 11 篇，获得专利 2项，谷歌学术H指数为21。担任IEEE Transactions on Neural Networks, IEEE Journal of Biomedical and Health Informatics, Journal of Neural Engineering, NeuroImage, Neurocomputing等多个期刊审稿人
+
+
+
 Huang Gan is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
