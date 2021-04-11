@@ -27,5 +27,5 @@ image:
   preview_only: false
   caption: " Transient behavior of system (20), where τ = 1."
 summary: Multistability, BAM neural networks, Delay Equilibrium
-date: 2021-04-11T17:00:00.356Z
+date: 2008-04-13T17:00:00.000Z
 ---
