@@ -23,15 +23,15 @@ organizations:
     url: https://bme.szu.edu.cn/
 education:
   courses:
-    - course: 博士，机械电子工程<br>PhD in Mechanical and Electronic Engineering
+    - course: 博士，机械电子工程/PhD in Mechanical and Electronic Engineering
       institution: 上海交通大学/Shanghai Jiao Tong Univesity
       year: 2013
-    - course: MEng in Applied Mathematics
-      institution: Southeast University
+    - course: 硕士，应用数学/MEng in Applied Mathematics
+      institution: 东南大学/Southeast University
       year: 2009
-    - year: 2005
-      institution: Southeast University
-      course: BSc in Information and Computing Science
+    - course: 学士，信息与计算科学/BSc in Information and Computing Science
+      institution: 东南大学/Southeast University
+      year: 2005
 email: huanggan@szu.edu.cn
 superuser: true
 highlight_name: true
