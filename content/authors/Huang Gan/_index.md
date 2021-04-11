@@ -1,6 +1,6 @@
 ---
 title: Huang Gan
-role: 助理教授/Assistant Professor
+role: 助理教授1/Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include Neural Modulation, Brain Computer
   Interface and Neural Prosthetics.
