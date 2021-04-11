@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - "*Huang Gan*"
-  - Cao Jinde
+  - Cao Jinde*
 doi: 10.3969/j.issn.1007-2985.2008.02.010
 publication: Journal of Jishou University (Natural Sciences Edition)
 abstract: "The robust state estimation problem for uncertain neural network is
