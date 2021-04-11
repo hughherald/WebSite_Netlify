@@ -4,7 +4,7 @@ subtitle: 对参数不确定神经网络的鲁棒状态估计
 publication_types:
   - "2"
 authors:
-  - 黄淦，曹进德
+  - Huang Gan，Cao Jinde
 doi: 10.3969/j.issn.1007-2985.2008.02.010
 publication: JOURNAL OF JISHOU UNIVERSITY(NATURAL SCIENCE EDITION)
 abstract: "The robust state estimation problem for uncertain neural network is
@@ -22,7 +22,7 @@ tags: []
 categories:
   - neural dynamic
 image:
-  filename: 无标题.png
+  filename: title.png
   focal_point: Smart
   preview_only: false
 date: 2008-03-11T08:21:00.000Z
