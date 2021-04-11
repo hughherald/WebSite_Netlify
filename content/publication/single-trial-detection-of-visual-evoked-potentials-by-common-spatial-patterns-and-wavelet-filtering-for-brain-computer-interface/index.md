@@ -10,6 +10,7 @@ authors:
   - Li Hu
   - Yong Hu
   - and Zhiguo Zhang
+doi: 10.1109/EMBC.2013.6610142
 publication: 35th Annual International Conference of the IEEE EMBS
 abstract: Event-related potentials (ERPs) are widely used in brain-computer
   interface (BCI) systems as input signals conveying a subject’s intention. A
