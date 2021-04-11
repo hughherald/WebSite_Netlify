@@ -1,9 +1,9 @@
 ---
-title: Huang Gan
-role: 助理教授1/Assistant Professor
+title: 黄淦/Huang Gan
+role: 助理教授/Assistant Professor
 avatar_filename: avatar.jpg
-bio: My research interests include Neural Modulation, Brain Computer
-  Interface and Neural Prosthetics.
+bio: My research interests include Neural Modulation, Brain Computer Interface
+  and Neural Prosthetics.
 interests:
   - 神经调控/Neural Modulation
   - 脑机接口/Brain Computer Interface
