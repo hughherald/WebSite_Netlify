@@ -1,5 +1,5 @@
 ---
-title: admin
+title: 黄淦/Huang Gan
 role: 助理教授/Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include Neural Modulation, Brain Computer Interface
