@@ -36,7 +36,7 @@ email: huanggan@szu.edu.cn
 superuser: true
 highlight_name: true
 ---
-黄淦博士是深圳大学医学部生物医学工程学院助理教授。他的主要研究方向包括神经调控，脑机接口，神经假肢，致力于研究不同用户、不同时间、不同任务下鲁棒神经信号解码方法，并在实时解码的基础上发展精准的神经调控技术。同时，他积极将研究成果应用于人机交互，神经康复，认知调控等方面。
+黄淦博士是深圳大学医学部生物医学工程学院助理教授。他的主要研究方向包括神经调控，脑机接口，神经假肢。他致力于研究不同用户、不同时间、不同任务下鲁棒神经信号解码方法，并在实时解码的基础上发展精准的神经调控技术。同时，他积极将研究成果应用于人机交互，神经康复，认知调控等方面。
 
 Dr. Huang Gan is a assistant professor in School of Biomedical Engineering, Health Science Center, Shenzhen University. His research interests include neural modulation, brain computer interface and neural prosthetics. He aims to the research of robust neural signal decoding methods among different users, different times, and different tasks, and develop accurate neural modulation technology based on real-time neural decoding. At the same time, he actively applies the research results to human-computer interaction, neural rehabilitation, cognitive regulation, and other aspects.
 
