@@ -40,5 +40,5 @@ image:
   preview_only: false
   caption: Flowchart describing the procedure to enhance the SNR of single-trial
     LEP responses.
-date: 2012-07-02T16:46:00.000Z
+date: 2013-07-03T16:46:00.000Z
 ---
