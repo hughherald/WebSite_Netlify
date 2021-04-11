@@ -5,6 +5,6 @@ headless: true
 weight: 20
 title: Biography
 active: true
-author: admin
+author: Huang Gan
 subtitle: 自我介绍
 ---
