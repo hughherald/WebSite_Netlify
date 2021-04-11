@@ -1,11 +1,11 @@
 ---
 title: 黄淦/Huang Gan
 role: 助理教授/Assistant Professor
-avatar_filename: 01211161s.jpg
-bio: My research interests include Biosignal Processing, Brain Computer
+avatar_filename: avatar.jpg
+bio: My research interests include Neural Modulation, Brain Computer
   Interface and Neural Prosthetics.
 interests:
-  - Biosignal Processing
+  - Neural Modulation
   - Brain Computer Interface
   - Neural Prosthetics
 social:
@@ -36,12 +36,8 @@ email: huanggan@szu.edu.cn
 superuser: true
 highlight_name: true
 ---
- 黄淦博士目前是深圳大学医学部生物医学工程学院助理教授。他的研究方向个性化的神经解码与调控，主要研究兴趣在于脑机接口，神经假肢。 目前以第一作者或合作者的形式在国内外高水平杂志 Neuroimage，Neural Network，Neurocomputing 杂志发表 SCI 论文 19 篇，会议论文 11 篇，获得专利 2项，谷歌学术H指数为21。担任IEEE Transactions on Neural Networks, IEEE Journal of Biomedical and Health Informatics, Journal of Neural Engineering, NeuroImage, Neurocomputing等多个期刊审稿人
+黄淦博士是深圳大学医学部生物医学工程学院助理教授。他的主要研究方向包括神经调控，脑机接口，神经假肢，致力于研究不同用户、不同时间、不同任务下鲁棒神经信号解码方法，并在实时解码的基础上发展精准的神经调控技术。同时，他积极将研究成果应用于人机交互，神经康复，认知调控等方面。
 
-
-
-Huang Gan is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-
+Dr. Huang Gan is a assistant professor in School of Biomedical Engineering, Health Science Center, Shenzhen University. His research interests include neural modulation, brain computer interface and neural prosthetics. He aims to the research of robust neural signal decoding methods among different users, different times, and different tasks, and develop accurate neural modulation technology based on real-time neural decoding. At the same time, he actively applies the research results to human-computer interaction, neural rehabilitation, cognitive regulation, and other aspects.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
