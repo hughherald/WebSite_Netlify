@@ -4,13 +4,12 @@ title: A novel approach to predict subjective pain perception from single-trial
 publication_types:
   - "2"
 authors:
-  - huang-gan
-  - Xiao Ping
-  - Hung Yeung Sam
-  - Iannetti Gian Domenico
-  - Zhang
-  - Zhiguo
-  - Hu Li
+  - gan-huang
+  - Ping Xiao
+  - Sam Hung Yeung
+  - Gian Domenico Iannetti
+  - Zhiguo Zhang
+  - Li Hu
 doi: 10.1016/j.neuroimage.2013.05.017
 publication: NeuroImage
 publication_short: NeuroImage
