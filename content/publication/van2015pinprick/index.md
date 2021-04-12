@@ -5,10 +5,10 @@ title: Pinprick evoked brain potentials recorded before and after high frequency
 publication_types:
   - "1"
 authors:
-  - van den Broeke Emanuel
-  - Lambert Julien
-  - huang-gan
-  - Mouraux André
+  - Emanuel van den Broeke
+  - Julien Lambert
+  - gan-huang
+  - André Mouraux
 publication: 2015 Poster presentation at the 9th EFIC congress
 draft: false
 featured: false
