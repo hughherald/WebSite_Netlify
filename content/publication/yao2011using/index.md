@@ -4,10 +4,10 @@ title: Using SSVEP based brain-computer interface to control functional
 publication_types:
   - "1"
 authors:
-  - Yao Lin
-  - Zhang Dingguo
-  - huang-gan
-  - Zhu Xiangyang
+  - Lin Yao
+  - Dingguo Zhang
+  - gan-huang
+  - Xiangyang Zhu
 doi: 10.1109/ICCIS.2011.6070349
 publication: 2011 IEEE 5th International Conference on Cybernetics and
   Intelligent Systems (CIS)
