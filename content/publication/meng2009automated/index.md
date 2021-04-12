@@ -23,5 +23,6 @@ image:
   filename: title.png
   focal_point: Smart
   preview_only: false
+  caption: Procedure of wavelet filtering
 date: 2009-12-19T08:57:00.000Z
 ---
