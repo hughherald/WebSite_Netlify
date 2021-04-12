@@ -3,7 +3,7 @@ title: Multistability in bidirectional associative memory neural networks
 publication_types:
   - "2"
 authors:
-  - huang-gan
+  - gan-huang
   - Jinde Cao
 author_notes: []
 doi: 10.1016/j.physleta.2007.12.053
