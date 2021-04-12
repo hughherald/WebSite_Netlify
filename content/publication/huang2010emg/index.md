@@ -8,7 +8,6 @@ authors:
   - Xidian Zheng
   - Xiangyang Zhu
 doi: 10.1109/IEMBS.2010.5627246
-publication: 2010 Annual International Conference of the IEEE Engineering in Medicine and Biology
 draft: false
 featured: false
 tags:
