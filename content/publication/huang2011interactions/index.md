@@ -4,9 +4,9 @@ title: "Interactions between two neural populations: A mechanism of chaos and
 publication_types:
   - "2"
 authors:
-  - huang-gan
-  - Zhang Dingguo
-  - Meng Jiangjun
+  - gan-huang
+  - Dingguo Zhang
+  - Jiangjun Meng
   - Xiangyang Zhu
 doi: 10.1016/j.neucom.2010.11.019
 publication: Neurocomputing
