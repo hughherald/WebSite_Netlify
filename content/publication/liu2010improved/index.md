@@ -1,40 +1,18 @@
 ---
-title: Single-trial Detection of Visual Evoked Potentials by Common Spatial
-  Patterns and Wavelet Filtering for Brain-computer Interface
+title: Improved GMM with parameter initialization for unsupervised adaptation of brain--computer interface
 publication_types:
-  - "1"
+  - "2"
 authors:
-  - Yiheng Tu
-  - gan-huang
-  - Yeung Sam Hung
-  - Li Hu
-  - Yong Hu
-  - Zhiguo Zhang
-doi: 10.1109/EMBC.2013.6610142
-publication: 35th Annual International Conference of the IEEE EMBS
-abstract: Event-related potentials (ERPs) are widely used in brain-computer
-  interface (BCI) systems as input signals conveying a subject’s intention. A
-  fast and reliable single-trial ERP detection method can be used to develop a
-  BCI system with both high speed and high accuracy. However, most of
-  single-trial ERP detection methods are developed for offline EEG analysis and
-  thus have a high computational complexity and need manual operations.
-  Therefore, they are not applicable to practical BCI systems, which require a
-  low-complexity and automatic ERP detection method. This work presents a joint
-  spatial-time-frequency filter that combines common spatial patterns (CSP) and
-  wavelet filtering (WF) for improving the signal-to-noise (SNR) of visual
-  evoked potentials (VEP), which can lead to a single-trial ERP-based BCI.
+  - Liu Guangquan
+  - huang-gan
+  - Meng Jianjun
+  - Zhang Dingguo
+  - Zhu Xiangyang
+doi: 10.1002/cnm.1362
+publication: International Journal for Numerical Methods in Biomedical Engineering
+publication_short: INT J NUMER METH BIO
+abstract: An important property of brain signals is their nonstationarity. How to adapt a brain–computer interface (BCI) to the changing brain states is one of the challenges faced by BCI researchers, especially in real application where the subject's real intent is unknown to the system. Gaussian mixture model (GMM) has been used for the unsupervised adaptation of the classifier in BCI. In this paper, a method of initializing the model parameters is proposed for expectation maximization‐based GMM parameter estimation. This improved GMM method and other two existing unsupervised adaptation methods are applied to groups of constructed artificial data with different data properties. Performances of these methods in different situations are analyzed. Compared with the other two unsupervised adaptation methods, this method shows a better ability of adapting to changes and discovering class information from unlabelled data. The methods are also applied to real EEG data recorded in 19 experiments. For real data, the proposed method achieves an error rate significantly lower than the other two unsupervised methods. Results of the real data agree with the analysis based on the artificial data, which confirms not only the effectiveness of our method but also the validity of the constructed data. 
 draft: false
 featured: false
-tags:
-  - EEG
-  - decoding
-categories:
-  - EEG
-  - decoding
-image:
-  filename: title.png
-  focal_point: Smart
-  preview_only: false
-  caption: Procedure of wavelet filtering
-date: 2013-07-11T08:57:00.000Z
+date: 2009-12-01T08:57:00.000Z
 ---
