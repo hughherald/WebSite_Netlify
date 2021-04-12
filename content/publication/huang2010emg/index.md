@@ -1,7 +1,7 @@
 ---
 title: An EMG-based handwriting recognition through dynamic time warping
 publication_types:
-  - "2"
+  - "1"
 authors:
   - gan-huang
   - Dingguo Zhang
