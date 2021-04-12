@@ -4,9 +4,9 @@ subtitle: 共空域模式方法在多类别分类中的应用
 publication_types:
   - "2"
 authors:
-  - Liu Guangquan
-  - huang-gan
-  - Zhu Xiangyang
+  - Guangquan Liu
+  - gan-huang
+  - Xiangyang Zhu
 doi: 10.3969/j.issn.0258-8021.2009.06.024
 publication: Chinese Journal of Biomedical Engineering
 publication_short: Chin J Biomed Eng
