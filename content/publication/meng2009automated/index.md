@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Jianjun Meng
   - Guangquan Liu
-  - han-huang
+  - gan-huang
   - Xiangyang Zhu
 doi: 10.1109/EMBC.2013.6610142
 publication: 2009 IEEE International conference on robotics and biomimetics (ROBIO)
