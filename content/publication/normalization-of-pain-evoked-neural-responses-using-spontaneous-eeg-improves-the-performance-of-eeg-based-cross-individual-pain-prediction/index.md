@@ -2,7 +2,7 @@
 title: Normalization of pain-evoked neural responses using spontaneous EEG
   improves the performance of EEG-based cross-individual pain prediction
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Yanru Bai
   - gan-huang
