@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - gan-huang
-  - Andre Mouraux
+  - André Mouraux
 publication: "Abstracts of Poster Presentations/Clinical Neurophysiology "
 abstract: The recording of motor-evoked potentials (MEPs) elicited by single
   pulses of transcranial magnetic stimulation (TMS) over the primary motor
