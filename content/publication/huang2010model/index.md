@@ -7,7 +7,8 @@ authors:
   - gan-huang
   - Guangquan Liu
   - Jianjun Meng
-  - Dingguo Zhang & Xiangyang Zhu
+  - Dingguo Zhang
+  - Xiangyang Zhu
 doi: 10.1007/s11571-010-9117-x
 publication: Cognitive Neurodynamics
 publication_short: COGN NEURODYNAMICS
@@ -27,5 +28,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-04-12T09:38:21.316Z
+date: 2010-06-06T09:38:21.316Z
 ---
