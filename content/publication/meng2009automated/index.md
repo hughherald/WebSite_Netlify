@@ -1,6 +1,6 @@
 ---
-title: Automated Selecting Subset of Channels Based on CSP in Motor
-Imagery Brain-Computer Interface System
+title: Automated Selecting Subset of Channels Based on CSP in Motor 
+  Imagery Brain-Computer Interface System
 publication_types:
   - "1"
 authors:
