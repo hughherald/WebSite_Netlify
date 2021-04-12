@@ -10,7 +10,7 @@ authors:
   - Xiangyang Zhu
 doi: 10.1016/j.neucom.2010.11.019
 publication: Neurocomputing
-publication_short: Neurocomputing
+publication_short: NEUROCOMPUTING
 abstract: "Neural mass model developed by Lopes da Silva et al. is able to
   describe limit cycle behavior in Electroencephalography (EEG) of alpha rhythm
   and exhibit complex dynamics between cortical areas. In this work, we extend

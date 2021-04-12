@@ -12,7 +12,7 @@ authors:
   - Li Hu
 doi: 10.1016/j.neuroimage.2013.05.017
 publication: NeuroImage
-publication_short: NeuroImage
+publication_short: NEUROIMAGE
 abstract: Pain is a subjective first-person experience, and self-report is the
   gold standard for pain assessment in clinical practice. However, self-report
   of pain is not available in some vulnerable populations (e.g., patients with

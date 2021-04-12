@@ -10,7 +10,7 @@ authors:
   - Zhang Xiangyang Zhu
 doi: 10.1016/j.neucom.2012.11.004
 publication: Neurocomputing
-publication_short: Neurocomputing
+publication_short: NEUROCOMPUTING
 abstract: The power of common spatial pattern (CSP) has been widely validated in
   electroencephalogram (EEG) based brain–computer interface (BCI). However, its
   effectiveness is highly dependent on subject-specific time segment, channel

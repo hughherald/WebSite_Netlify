@@ -7,7 +7,7 @@ authors:
   - Jinde Cao
 doi: 10.1016/j.neunet.2009.10.004
 publication: Neural Networks
-publication_short: Neural Networks
+publication_short: NEURAL NETWORKS
 abstract: In this article, we focus on the delay-dependent multistability in
   recurrent neural networks. By constructing Lyapunov functional and using
   matrix inequality techniques, a novel delay-dependent multistability criterion
