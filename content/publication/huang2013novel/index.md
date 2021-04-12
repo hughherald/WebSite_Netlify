@@ -2,7 +2,7 @@
 title: A novel approach to predict subjective pain perception from single-trial
   laser-evoked potentials
 publication_types:
-  - "0"
+  - "2"
 authors:
   - huang-gan
   - Xiao Ping
