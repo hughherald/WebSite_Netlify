@@ -7,6 +7,9 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
+  title: Huang Gan | Shenzhen University
+  params:
+    description: Huang Gan | Shenzhen University.
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
