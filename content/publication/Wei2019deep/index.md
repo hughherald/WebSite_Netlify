@@ -4,7 +4,7 @@ subtitle: 深度学习算法在脑电信号解码中的应用
 publication_types:
   - "2"
 authors:
-  - Mengyin wei
+  - Mengyin Wei
   - Linling Li
   - gan-huang
   - Fei Tang
