@@ -5,12 +5,12 @@ publication_types:
   - "2"
 authors:
   - Xiaoxia Zhang
-  - Zhiguo Zhang
   - Linling Li
   - gan-huang
   - Li Zhang
   - Zhen Liang
   - Li Shi
+  - Zhiguo Zhang
 doi: 10.3389/fnins.2021.635733
 publication: Frontiers in Neuroscience
 publication_short: FRONT NEUROSCI-SWITZ
