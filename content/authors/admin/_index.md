@@ -34,7 +34,7 @@ education:
       year: 2012
     - course: 硕士，应用数学/MEng in Applied Mathematics
       institution: 东南大学/Southeast University
-      year: 2007
+      year: 2008
     - course: 学士，信息与计算科学/BSc in Information and Computing Science
       institution: 东南大学/Southeast University
       year: 2005
