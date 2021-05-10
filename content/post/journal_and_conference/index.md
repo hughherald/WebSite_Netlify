@@ -27,6 +27,7 @@ image:
 
 ### **Conference：**
 
-* [EMBC2021](https://embc.embs.org/2021/) Jul 26, 2021 - Jul 30, 2021 - Guadalajara , **Mexico**
-* [2021 BCI Meeting](https://bcisociety.org/bci-meeting/) Jul 7, 2021 - Jul 9, 2021 - Online , **Online**
-* [NER 2021](https://neuro.embs.org/2021/) May 4, 2021 - May 6, 2021 - Online , **Online**
+* [EMBC2021](https://embc.embs.org/2021/) Jul 26, 2021 - Jul 30, 2021 - Online, **Online**
+* [2021 BCI Meeting](https://bcisociety.org/bci-meeting/) Jul 7, 2021 - Jul 9, 2021 - Online, **Online**
+* [NER 2021](https://neuro.embs.org/2021/) May 4, 2021 - May 6, 2021 - Online, **Online**
+* [第五届全国神经动力学学术会议](https://mp.weixin.qq.com/s/Iw2AXMagc6x2zM2j3geTog) Aug 27, 2021 - Aug 29, 2021 - 杭州, **中国**
