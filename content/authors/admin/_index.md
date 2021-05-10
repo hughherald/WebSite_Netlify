@@ -26,7 +26,7 @@ social:
     icon: github
   - display:
       header: false
-    link: https://github.com/hughherald
+    link: https://huanggan.site/weixin/
     icon_pack: fab
     icon: weixin
 organizations:
