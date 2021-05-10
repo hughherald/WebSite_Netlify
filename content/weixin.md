@@ -11,4 +11,4 @@ header:
   caption: ""
   image: ""
 ---
-![](/media/微信图片_20210511012308.jpg)
+![](/media/icon_wechat.jpg)
