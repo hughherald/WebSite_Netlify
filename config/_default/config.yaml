@@ -5,7 +5,7 @@
 
 title: Huang Gan # Website name
 baseurl: 'huanggan.site' # Website URL
-copyright: '@{2021} Huang Gan' # Footer text, e.g. '© {year} Me'
+copyright: '@{2021} huanggan.site' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
