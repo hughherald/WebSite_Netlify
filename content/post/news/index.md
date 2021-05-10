@@ -6,7 +6,7 @@ summary: |-
 
     Congratulations Li Fangchao and Hou Shaohui passed the master's defense
 
-    Online, for the conference of NER2021
+    Oral presentation for the conference NER2021
 draft: false
 featured: false
 image:
