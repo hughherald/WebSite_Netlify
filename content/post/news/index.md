@@ -4,9 +4,9 @@ date: 2021-05-10T19:18:01.765Z
 summary: |-
   * **05/2021**
 
-    Congratulations Li Fangchao and Hou Shaohui passed the master's defense
+    * Congratulations Li Fangchao and Hou Shaohui passed the master's defense
 
-    Oral presentation for the conference NER2021
+    * Oral presentation for the conference NER2021
 draft: false
 featured: false
 image:
@@ -16,6 +16,6 @@ image:
 ---
 * **05/2021**
 
-  Congratulations Li Fangchao and Hou Shaohui passed the master's defense
+  * Congratulations Li Fangchao and Hou Shaohui passed the master's defense
 
-  Oral presentation for the conference NER2021
+  * Oral presentation for the conference NER2021
