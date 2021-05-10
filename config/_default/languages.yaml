@@ -14,7 +14,7 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh-Hans
-  contentDir: content/zh
+  #contentDir: content/zh
   title: 黄淦 |
   params:
     description:  深圳大学生物医学工程学院
