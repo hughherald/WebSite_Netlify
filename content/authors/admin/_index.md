@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: /#contact
+    email: huanggan@szu.edu.cn
     icon_pack: fas
     icon: envelope
   - display:
