@@ -37,7 +37,7 @@ abstract: Pain is a subjective first-person experience, and self-report is the
   of pain, which could be potentially adopted in various basic and clinical
   applications.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

@@ -32,7 +32,7 @@ abstract: The efficacy of neurofeedback is a point of great controversy, because
   Therefore, the ER-NF system holds great potential to be able to more reliably
   and flexibly modulate cognition and behavior.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
