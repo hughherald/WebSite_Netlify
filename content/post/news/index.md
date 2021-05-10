@@ -2,7 +2,7 @@
 title: News
 date: 2021-05-10T18:49:25.091Z
 summary: |-
-  * ### **05/2021**
+  * **05/2021**
 
     Congratulations Li Fangchao and Hou Shaohui passed the master's defense
 
@@ -14,7 +14,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* ### **05/2021**
+* **05/2021**
 
   Congratulations Li Fangchao and Hou Shaohui passed the master's defense
 
