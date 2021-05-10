@@ -34,7 +34,7 @@ abstract: The efficacy of neurofeedback is a point of great controversy, because
 draft: false
 featured: ture
 image:
-  filename: featured
+  filename: fig2
   focal_point: Smart
   preview_only: false
 date: 2019-03-31T17:28:00.000Z
