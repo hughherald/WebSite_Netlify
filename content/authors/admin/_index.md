@@ -18,7 +18,7 @@ social:
       header: false
     link: https://scholar.google.com.hk/citations?user=mZd1u9oAAAAJ&hl=zh-CN
     icon_pack: fas
-    icon: graduation-cap
+    icon: google-scholar
   - display:
       header: false
     link: https://github.com/hughherald
