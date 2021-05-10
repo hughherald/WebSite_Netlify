@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    email: huanggan@szu.edu.cn
+    link: mailto:huanggan@szu.edu.cn
     icon_pack: fas
     icon: envelope
   - display:
@@ -26,7 +26,7 @@ social:
     icon: github
   - display:
       header: false
-    email: huanggan@szu.edu.cn
+    link: https://github.com/hughherald
     icon_pack: fab
     icon: weixin
 organizations:
