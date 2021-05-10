@@ -1,6 +1,6 @@
 ---
-title: 实时看不知道怎么用
-subtitle: 阿萨德
+title: Journal and Conference information
+subtitle: ""
 date: 2021-04-13T03:23:29.825Z
 draft: false
 featured: false
