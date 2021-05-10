@@ -1,5 +1,5 @@
 ---
-title: News
+title: Events
 date: 2021-05-10T19:18:01.765Z
 summary: |-
   * **05/2021**
