@@ -2,7 +2,13 @@
 title: Journal and Conference
 subtitle: ""
 date: 2021-04-13T03:23:29.825Z
-summary: ""
+summary: >-
+  * IEEE Transactions on Neural Systems and Rehabilitation Engineering
+
+  * IEEE Transactions on Biomedical Engineering
+
+
+  * [EMBC2021](https://embc.embs.org/2021/) Jul 26, 2021 - Jul 30, 2021 - Guadalajara , **Mexico**
 draft: false
 featured: false
 image:
