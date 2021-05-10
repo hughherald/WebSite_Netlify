@@ -24,6 +24,11 @@ social:
     link: https://github.com/hughherald
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    email: huanggan@szu.edu.cn
+    icon_pack: fas
+    icon: weixin
 organizations:
   - name: 深圳大学/Shenzhen University
     url: https://bme.szu.edu.cn/
