@@ -61,7 +61,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: true
+  show_language: false
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -85,12 +85,12 @@ edit_page:
   content_dir: ''
   repo_branch: main
   editable:
-    page: false
+    page: ture
     post: false
     book: false
 show_related:
   book: true
-  page: false
+  page: ture
   post: true
   project: true
   publication: true

@@ -12,12 +12,12 @@ en:
     description: Huang Gan | Shenzhen University 黄淦 | 深圳大学生物医学工程学院
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-  languageCode: zh-Hans
-  #contentDir: content/zh
-  title: 黄淦
-  params:
-    description:  深圳大学生物医学工程学院
+#zh:
+#  languageCode: zh-Hans
+#  #contentDir: content/zh
+#  title: 黄淦
+#  params:
+#    description:  深圳大学生物医学工程学院
 #  menu:
 #    main:
 #      - name: 传
