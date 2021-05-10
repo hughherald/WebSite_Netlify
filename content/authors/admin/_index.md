@@ -17,7 +17,7 @@ social:
   - display:
       header: false
     link: https://scholar.google.com.hk/citations?user=mZd1u9oAAAAJ&hl=zh-CN
-    icon_pack: fas
+    icon_pack: ai
     icon: google-scholar
   - display:
       header: false
@@ -27,7 +27,7 @@ social:
   - display:
       header: false
     email: huanggan@szu.edu.cn
-    icon_pack: fas
+    icon_pack: fab
     icon: weixin
 organizations:
   - name: 深圳大学/Shenzhen University
