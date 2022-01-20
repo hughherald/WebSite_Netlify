@@ -2,9 +2,9 @@
 title: Events
 date: 2021-05-10T19:18:01.765Z
 summary: |-
-  * **09/2021**
+  * **01/2022**
 
-    * Welcome Zhu qianyun, Wang Yunyi Zhang Xinyi Joint our lab
+    * Welcome postdoctoral researcher Zhang Shaorong to join our laboratory
 draft: false
 featured: false
 image:
@@ -15,7 +15,8 @@ image:
 * **01/2022**
 
   * Welcome postdoctoral researcher Zhang Shaorong to join our laboratory
-  
+  -----2021-----
+
 * **09/2021**
 
   * Welcome master Student Zhu qianyun, Wang Yunyi and Zhang Xinyi to join our laboratory
