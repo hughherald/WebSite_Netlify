@@ -13,6 +13,7 @@ authors:
   - Gan Huang
 doi: doi.org/10.1101/2021.09.06.459195
 publication: bioRxiv
+publication_short: bioRxiv
 abstract: The dominant approach in investigating the individual reliability for
   event-related potentials (ERPs) is to extract peak-related features at
   electrodes showing the strongest group effects. Such a peak-based approach

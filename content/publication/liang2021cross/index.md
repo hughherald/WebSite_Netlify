@@ -13,6 +13,7 @@ authors:
   - Zhiguo Zhang
 doi: doi.org/10.1101/2021.08.06.455362
 publication: bioRxiv
+publication_short: bioRxiv
 abstract: EEG signals have been successfully used in affective detection
   applications, which could directly capture brain dynamics and reflect
   emotional changes at a high temporal resolution. However, the generalized
