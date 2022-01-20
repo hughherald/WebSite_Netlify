@@ -12,8 +12,8 @@ authors:
   - Zhiguo Zhang
   - Shin Ishii
 doi: 10.1109/TNSRE.2021.3111689
-publication: arXiv
-publication_short: arXiv
+publication: IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING
+publication_short: IEEE T NEUR SYS REH
 abstract: How to effectively and efficiently extract valid and reliable features
   from high-dimensional electroencephalography (EEG), particularly how to fuse
   the spatial and temporal dynamic brain information into a better feature
@@ -42,5 +42,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-27T15:49:06.100Z
+date: 2021-09-14T15:49:06.100Z
 ---
