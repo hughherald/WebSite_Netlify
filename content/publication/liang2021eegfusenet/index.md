@@ -11,9 +11,9 @@ authors:
   - Gan Huang
   - Zhiguo Zhang
   - Shin Ishii
-doi: ""
-publication: "arXiv "
-publication_short: "arXiv "
+doi: 10.1109/TNSRE.2021.3111689
+publication: arXiv
+publication_short: arXiv
 abstract: How to effectively and efficiently extract valid and reliable features
   from high-dimensional electroencephalography (EEG), particularly how to fuse
   the spatial and temporal dynamic brain information into a better feature

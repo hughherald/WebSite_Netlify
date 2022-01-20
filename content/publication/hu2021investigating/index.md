@@ -11,7 +11,7 @@ authors:
   - Linling Li
   - Gan Huang
   - Zhen Liang
-doi: doi.org/10.1101/2021.10.09.463281
+doi: 10.1101/2021.10.09.463281
 publication: bioRxiv
 publication_short: bioRxiv
 abstract: "Emotions dynamically change in response to ever-changing

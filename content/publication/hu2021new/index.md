@@ -11,7 +11,7 @@ authors:
   - Li Zhang
   - Linling Li
   - Gan Huang
-doi: doi.org/10.1101/2021.09.06.459195
+doi: 10.1101/2021.09.06.459195
 publication: bioRxiv
 publication_short: bioRxiv
 abstract: The dominant approach in investigating the individual reliability for

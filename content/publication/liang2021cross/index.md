@@ -11,7 +11,7 @@ authors:
   - Linling Li
   - Gan Huang
   - Zhiguo Zhang
-doi: doi.org/10.1101/2021.08.06.455362
+doi: 10.1101/2021.08.06.455362
 publication: bioRxiv
 publication_short: bioRxiv
 abstract: EEG signals have been successfully used in affective detection
