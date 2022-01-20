@@ -13,6 +13,7 @@ authors:
   - Nan Yan
   - Lijie Ren
   - Zhiguo Zhang
+doi: doi.org/10.3389/fnins.2021.699999
 publication: Frontiers in Neuroscience
 publication_short: FRONT NEUROSCI-SWITZ
 abstract: "Electroencephalographic (EEG) neurofeedback (NFB) is a popular
