@@ -1,49 +1,55 @@
 ---
-title: Multimodal Neuroimaging Predictors of Learning Performance of Sensorimotor Rhythm Up-Regulation Neurofeedback
-subtitle: ""
+title: Multimodal Neuroimaging Predictors of Learning Performance of
+  Sensorimotor Rhythm Up-Regulation Neurofeedback
 publication_types:
   - "2"
 authors:
-  - Hai Li
-  - gan-huang
-  - Qiang Lin
-  - Jiangli Zhao
-  - Qiang Fu
-  - Le Li
-  - Yurong Mao
-  - Xijun Wei
-  - Wanzhang Yang
-  - Bingshui Wang
+  - Linling Li
+  - Yinxue Wang
+  - Yixuan Zeng
+  - Shaohui Hou
+  - Gan Huang
+  - Li Zhang
+  - Nan Yan
+  - Lijie Ren
   - Zhiguo Zhang
-  - Dongfeng Huang
-doi: 10.3389/fnins.2020.00827
+doi: doi.org/10.3389/fnins.2021.699999
 publication: Frontiers in Neuroscience
 publication_short: FRONT NEUROSCI-SWITZ
-abstract: This study investigated electroencephalogram (EEG) changes during
-  movement preparation and execution in stroke patients. EEG-based event-related
-  potential (ERP) technology was used to measure brain activity changes.
-  Seventeen stroke patients participated in this study and completed ERP tests
-  that were designed to measure EEG changes during unilateral upper limb
-  movements in preparation and execution stages, with Instruction Response
-  Movement (IRM) and Cued Instruction Response Movement (CIRM) paradigms. EEG
-  data were analyzed using motor potential (MP) in the time domain and the
-  mu-rhythm and beta frequency band response mean value (R-means) in the
-  time–frequency domain. In IRM, the MP amplitude at Cz was higher during
-  hemiplegic arm movement than during unaffected arm movement. MP latency was
-  shorter at Cz and the contralesional motor cortex during hemiplegic arm
-  movement in CIRM compared to IRM. No significant differences were found in
-  R-means among locations, between movement sides in both ERP tests. This study
-  presents the brain activity changes in the time and time–frequency domains in
-  stroke patients during movement preparation and execution and supports the
-  contralesional compensation and adjacent-region compensation mechanism of
-  post-stroke brain reconstruction. These findings may contribute to future
-  rehabilitation research about neuroplasticity and technology development such
-  as the brain–computer interface.
+abstract: "Electroencephalographic (EEG) neurofeedback (NFB) is a popular
+  neuromodulation method to help one selectively enhance or inhibit his/her
+  brain activities by means of real-time visual or auditory feedback of EEG
+  signals. Sensory motor rhythm (SMR) NFB protocol has been applied to improve
+  cognitive performance, but a large proportion of participants failed to
+  self-regulate their brain activities and could not benefit from NFB training.
+  Therefore, it is important to identify the neural predictors of SMR
+  up-regulation NFB training performance for a better understanding the
+  mechanisms of individual difference in SMR NFB. Twenty-seven healthy
+  participants (12 males, age: 23.1 ± 2.36) were enrolled to complete three
+  sessions of SMR up-regulation NFB training and collection of multimodal
+  neuroimaging data [resting-state EEG, structural magnetic resonance imaging
+  (MRI), and resting-state functional MRI (fMRI)]. Correlation analyses were
+  performed between within-session NFB learning index and anatomical and
+  functional brain features extracted from multimodal neuroimaging data, in
+  order to identify the neuroanatomical and neurophysiological predictors for
+  NFB learning performance. Lastly, machine learning models were trained to
+  predict NFB learning performance using features from each modality as well as
+  multimodal features. According to our results, most participants were able to
+  successfully increase the SMR power and the NFB learning performance was
+  significantly correlated with a set of neuroimaging features, including
+  resting-state EEG powers, gray/white matter volumes from MRI, regional and
+  functional connectivity (FC) of resting-state fMRI. Importantly, results of
+  prediction analysis indicate that NFB learning index can be better predicted
+  using multimodal features compared with features of single modality. In
+  conclusion, this study highlights the importance of multimodal neuroimaging
+  technique as a tool to explain the individual difference in within-session NFB
+  learning performance, and could provide a theoretical framework for early
+  identification of individuals who cannot benefit from NFB training."
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2020-08-19T17:55:00.000Z
+date: 2021-06-20T15:18:29.527Z
 ---
