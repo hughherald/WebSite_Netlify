@@ -11,7 +11,7 @@ authors:
   - Linling Li
   - Li Zhang
   - and Zhiguo Zhang
-doi: doi.org/10.1016/j.ijpsycho.2021.07.337
+doi: 10.1016/j.ijpsycho.2021.07.337
 publication: International Journal of Psychophysiology
 publication_short: INT J PSYCHOPHYSIOL
 abstract: Steady State Evoked Potential (SSEP) has been widely used in the
@@ -30,5 +30,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-02-14T03:57:40.486Z
+date: 2021-09-07T03:57:40.486Z
 ---
