@@ -5,8 +5,7 @@ title: "A new perspective on individual reliability beyond group effect for
 publication_types:
   - "2"
 authors:
-  - Hu
-  - Zhenxing
+  - Hu Zhenxing
   - Zhiguo Zhang
   - Zhen Liang
   - Li Zhang
