@@ -3,13 +3,13 @@ title: Cognitive Response in Steady State Evoked Potential
 publication_types:
   - "1"
 authors:
-  - Huang Gan
-  - Xiaoqi Liang
-  - Shaohui Hou
-  - Zhen Liang
-  - Linling Li
-  - Li Zhang
-  - Zhiguo Zhang
+  - Gan Huang 
+  - Liang Xiaoqi
+  - Hou Shaohui
+  - Liang Zhen
+  - Li Linling
+  - Zhang Li
+  - Zhang Zhiguo
 doi: 10.1016/j.ijpsycho.2021.07.337
 publication: International Journal of Psychophysiology
 publication_short: INT J PSYCHOPHYSIOL
