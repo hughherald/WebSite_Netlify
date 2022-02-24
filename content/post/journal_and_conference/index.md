@@ -7,8 +7,10 @@ summary: >-
 
   * IEEE Transactions on Biomedical Engineering
 
+  * NeuroImage
 
-  * [EMBC2021](https://embc.embs.org/2021/) Jul 26, 2021 - Jul 30, 2021 - Guadalajara , **Mexico**
+  * [ICDVC 2022](https://icdvc.sjtu.edu.cn/) [[pdf]](ICDVC 2022 第一轮通知 PDF V3.pdf) Oct 21-23 - 上海, **中国** (Jun 15 Paper submitting)
+
 draft: false
 featured: false
 image:
