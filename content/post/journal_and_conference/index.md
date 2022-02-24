@@ -30,7 +30,7 @@ image:
 ### **Conference：**
 
 * 2022
-  * [ICDVC 2022](https://icdvc.sjtu.edu.cn/)) [[pdf]]((ICDVC 2022 第一轮通知 PDF V3.pdf)  Oct 21 - 23 - 上海, **中国** (Jun 15 Paper submitting)
+  * [ICDVC 2022](https://icdvc.sjtu.edu.cn/)  [[pdf]](ICDVC 2022 第一轮通知 PDF V3.pdf) Oct 21 - 23 - 上海, **中国** (Jun 15 Paper submitting)
 * 2021
   * [2021中国生物医学工程大会](https://www.csbmemeeting.org) [[pdf]](2021年CSBME大会征文通知.pdf) Nov 26 - 29 - 深圳, **中国**
   * [IOP2021](https://iop.societyconference.com/v2/) Sep 7 - 11 - Online, **Online**
