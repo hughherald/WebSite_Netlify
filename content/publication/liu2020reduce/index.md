@@ -9,6 +9,7 @@ authors:
   - Ning Jiang
   - Lin Yao
   - Zhiguo Zhang
+doi: 10.1088/1741-2552/ab914d
 publication: Journal of neural engineering
 publication_short: J NEURAL ENG
 abstract: Objective. Brain Computer Interface (BCI) inefficiency indicates that
