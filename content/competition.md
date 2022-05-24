@@ -54,3 +54,16 @@ header:
 
 
 ### **竞赛网站（待公布）**
+
+### **引文**
+
+本次挑战中使用的脑电数据是以下论文中 M3CV数据集的一部分。
+
+```
+@article{huanggan2022m3cv,
+    title={M3CV：A Multi-subject, Multi-session, and Multi-task database for EEG-based Biometrics challenge},
+    author={Gan Huang, Zhenxin Hu, Weize Chen, Zhen Liang, Linling Li, Li Zhang, and Zhiguo Zhang},
+    journal={arXiv preprint arXiv:2205.04126},
+    year={2022}
+}
+```
