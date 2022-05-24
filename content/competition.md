@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-这项挑战是 **世界人工智能大会（拟）** 的一部分。
+这项挑战是**世界人工智能大会**(拟)的一部分。
 
 ## **介绍**
 
@@ -63,7 +63,7 @@ header:
 @article{huanggan2022m3cv,
     title={M3CV：A Multi-subject, Multi-session, and Multi-task database for EEG-based Biometrics challenge},
     author={Gan Huang, Zhenxin Hu, Weize Chen, Zhen Liang, Linling Li, Li Zhang, and Zhiguo Zhang},
-    journal={arXiv preprint arXiv:2205.04126},
+    journal={in revision},
     year={2022}
 }
 ```
