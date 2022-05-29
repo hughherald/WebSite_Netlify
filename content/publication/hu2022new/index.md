@@ -10,7 +10,7 @@ authors:
   - Zhen Liang
   - Li Zhang
   - Linling Li
-  - Gan Huang.
+  - Gan Huang
 doi: 10.1016/j.neuroimage.2022.118937
 publication: NEUROIMAGE
 publication_short: NEUROIMAGE
