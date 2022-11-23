@@ -1,6 +1,6 @@
 ---
 title: 黄淦/Huang Gan
-role: 助理教授/Assistant Professor
+role: 助理教授，特聘研究员<br>Assistant Professor, Distinguished Researcher
 avatar_filename: avatar.jpg
 bio: Research interests include Neural Modulation, Brain Computer Interface
   and Neural Prosthetics.
