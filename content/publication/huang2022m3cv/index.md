@@ -1,7 +1,7 @@
 ---
 title: M3CV A multi-subject, multi-session, and multi-task database for EEG-based biometrics challenge
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Gan Huang 
   - Zhenxing Hu
