@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Gan Huang 
-  - henxing Hu
+  - Zhenxing Hu
   - Weize Chen
   - Shaorong Zhang
   - Zhen Liang
