@@ -31,7 +31,7 @@ social:
     icon: weixin
 organizations:
   - name: 深圳大学/Shenzhen University
-    url: https://bme.szu.edu.cn/
+    url: https://bme.szu.edu.cn/20171/0613/61.html
 education:
   courses:
     - course: 博士，机械电子工程/PhD in Mechanical and Electronic Engineering
