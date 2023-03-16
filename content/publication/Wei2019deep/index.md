@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning in EEG Decoding: A Ｒeview"
+title: "Deep Learning in EEG Decoding: A Review"
 subtitle: 深度学习算法在脑电信号解码中的应用
 publication_types:
   - "2"
