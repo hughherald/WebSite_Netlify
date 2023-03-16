@@ -38,7 +38,7 @@ abstract: Objective. Brain Computer Interface (BCI) inefficiency indicates that
   inefficiency. While, 'BCI inefficiency' might be more aptly called 'SMR
   inefficiency' after this study.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
