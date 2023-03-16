@@ -11,6 +11,7 @@ weight: 65
 
 title: Research
 subtitle: ''
+active: false
 
 content:
   # Page type to display. E.g. project.
