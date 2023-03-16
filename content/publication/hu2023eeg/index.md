@@ -10,12 +10,6 @@ authors:
   - Linling Li
   - Gan Huang
   - Zhen Liang
-
-  Article Navigation
-JOURNAL ARTICLE
-EEG microstate correlates of emotion dynamics and stimulation content during video watching  SCI基础版 医学2区SCI Q2SCIIF 4.86
-Wanrou Hu, Zhiguo Zhang, Huilin Zhao, Li Zhang, Linling Li, Gan Huang, Zhen Liang Author Notes
-Cerebral Cortex, Volume 33, Issue 3, 1 February 2023, Pages 523–542, https://doi.org/10.1093/cercor/bhac082
 doi: 10.1093/cercor/bhac082
 publication:  CEREBRAL CORTEX
 publication_short:  CEREB CORTEX
