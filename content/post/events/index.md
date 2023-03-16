@@ -15,7 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-#### \#2023#
+#### 2023
 
 * **06/2023**
 
@@ -25,7 +25,7 @@ image:
 
   * 在神经工程国际会议（NER2023）做壁报报告/Poster presentation for the conference NER2023
 
-#### \#2022#
+#### 2022
 
 * **09/2021**
 
@@ -39,7 +39,7 @@ image:
 
   * 欢迎张绍荣博士加入实验室/Welcome postdoctoral researcher Zhang Shaorong to join our laboratory
 
-#### \#2021#
+#### 2021
 
 * **09/2021**
 
