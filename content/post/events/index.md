@@ -29,7 +29,7 @@ image:
 
 * **09/2021**
 
-  * 欢迎硕士研究生雷雪、孙浩、李林桦加入实验室/Welcome master Student Lei Xue, Sun Hao and Li Linhua to join our laboratory
+  * 欢迎硕士研究生雷雪、孙浩、李林桦加入实验室/Welcome master student Lei Xue, Sun Hao and Li Linhua to join our laboratory
 
 * **05/2022**
 
@@ -43,7 +43,7 @@ image:
 
 * **09/2021**
 
-  * 欢迎硕士研究生朱千韵，王闰一，张心怡加入实验室/Welcome master Student Zhu qianyun, Wang Yunyi and Zhang Xinyi to join our laboratory
+  * 欢迎硕士研究生朱千韵，王闰一，张心怡加入实验室/Welcome master student Zhu qianyun, Wang Yunyi and Zhang Xinyi to join our laboratory
 
 * **05/2021**
 

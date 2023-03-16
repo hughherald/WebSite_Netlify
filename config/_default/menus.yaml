@@ -7,18 +7,12 @@ main:
   - name: 主页/Home
     url: '#about'
     weight: 10
-  - name: 文章/Publications
-    url: '#featured'
-    weight: 20
   - name: 新闻/News
     url: '#posts'
+    weight: 20
+  - name: 文章/Publications
+    url: '#featured'
     weight: 30
-  - name: 研究/Research
-    url: '#projects'
-    weight: 40
-  - name: 成员/People
-    url: 'people'
-    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
