@@ -1,5 +1,5 @@
 ---
-title: Journal and Conference
+title: Conference
 subtitle: ""
 date: 2021-04-13T03:23:29.825Z
 summary: >-
