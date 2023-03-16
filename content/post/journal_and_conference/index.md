@@ -3,13 +3,7 @@ title: Journal and Conference
 subtitle: ""
 date: 2021-04-13T03:23:29.825Z
 summary: >-
-  * IEEE Transactions on Neural Systems and Rehabilitation Engineering
-
-  * IEEE Transactions on Biomedical Engineering
-
-  * NeuroImage
-
-  * [ICDVC 2022](https://icdvc.sjtu.edu.cn/) [[pdf]](ICDVC 2022 第一轮通知 PDF V3.pdf) Oct 21-23 - 上海, **中国** (Jun 15 Paper submitting)
+   * [ICDVC 2022](https://icdvc.sjtu.edu.cn/) [[pdf]](ICDVC 2022 第一轮通知 PDF V3.pdf) Oct 21-23 - 上海, **中国** (Jun 15 Paper submitting)
 
 draft: false
 featured: false
