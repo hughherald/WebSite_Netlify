@@ -53,6 +53,6 @@ superuser: true
 - 2021年获教育部自然科学一等奖（排名第7）；
 - 编写脑电信号处理软件 [Letswave7](https://letswave.cn/)。
 
-Huang Gan Ph.D. graduated from Shanghai Jiaotong University and worked as a postdoctoral fellow at the Neuroscience Institute of Université catholique de Louvain (UCL) in Belgium. Currently, he is an associate professor, distinguished researcher, in School of Biomedical Engineering, Health Science Center, Shenzhen University. Dr. Huang’s research topics mainly focus on the motor and sensory related robust neural signal decoding methods and precise neural modulation technology. He is also interested in the application of scientific research to brain computer interface, neural modulation, and neural prosthetics, and other aspects. 
+Huang Gan, Ph.D., graduated from Shanghai Jiao Tong University and completed his postdoctoral fellowship at the University of Louvain in Belgium. Currently, he is an associate professor, distinguished researcher, in School of Biomedical Engineering, Health Science Center, Shenzhen University. Dr. Huang's research primarily revolves around the development of robust neural signal decoding methods in the domains of motor and sensory functions, as well as precise neural modulation technologies. His areas of interest extend to the practical applications of scientific research, encompassing brain-computer interfaces, neural modulation, neural prosthetics, and related fields.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
