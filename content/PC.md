@@ -23,19 +23,19 @@ header:
 
 
 ## **window11 系统图标删除**
-
+进入注册表
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\
 1. 删除图片文件夹
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}]
+{24ad3ad4-a569-4530-98e1-ab02f9417aa8}
 
 2. 删除音乐文件夹
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}]
+{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}
 
 3. 删除桌面图标文件夹
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}]
-
+{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}
 
 4. 删除视屏文件夹
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a}]
+{f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a}
 
 ## **Mircosoft 无法登陆**
 出现错误：你无法登录。
