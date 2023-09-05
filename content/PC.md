@@ -36,3 +36,8 @@ header:
 
 4. 删除视屏文件夹
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a}]
+
+## **Mircosoft 无法登陆**
+出现错误：你无法登录。
+Internet 选项 > 高级 
+勾选TLS1.2 TLS1.3
