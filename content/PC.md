@@ -1,5 +1,5 @@
 ---
-title: 脑纹识别算法挑战赛
+title: PC初始化设置
 date: "2022-05-24T00:00:00+01:00"
 draft: false
 share: false
@@ -14,11 +14,11 @@ header:
 
 ## **window11 多窗口设置**
 
-1. 下载![ViVeTool](https://github.com/thebookisclosed/ViVe/releases/)，并解压
+1. 下载[ViVeTool](https://github.com/thebookisclosed/ViVe/releases/)，并解压
 2. 运行CMD，cd 解压路径
 3. 运行 
-vivetool /enable /id:37634385
-vivetool /enable /id:39145991
+- vivetool /enable /id:37634385
+- vivetool /enable /id:39145991
 4. 重启电脑
 
 
