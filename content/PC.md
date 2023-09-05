@@ -34,6 +34,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 ## **Mircosoft 无法登陆**
 出现错误：你无法登录
-
 - Internet 选项 > 高级 
 - 勾选TLS1.2 TLS1.3
+
+
+## **window11 菜单定制**
+下载[ViVeTool](https://github.com/BluePointLilac/ContextMenuManager/releases)
