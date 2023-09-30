@@ -19,4 +19,4 @@ Letswave provides multiple functions of the neurophysiological signals processin
 - The script autogenerating feature greatly reduced the gap between the GUI-based users and script-based users. 
 - As compared to other signal processing toolboxes, Letswave is an intuitive and streamlined tool to process and visualize EEG data, with a shallow learning curve.
 
-The current version is letswave7(ver20230929063110). For more more information, go to the website [letswave.cn](https://letswave.cn/).
+For more more information, go to the website [letswave.cn](https://letswave.cn/).
