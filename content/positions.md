@@ -25,7 +25,7 @@ header:
 
 
 
-Multiple positions (Associate Researcher, Postdoc Researcher, Research Assistant, Postgraduates) are available. Contact Gan Huang if you are interested (**huanggan@szu.edu.cn**).
+Multiple positions (Associate Researcher, Postdoc Researcher, Research Assistant, Postgraduates) are available. Contact Dr. Huang if you are interested (**huanggan@szu.edu.cn**).
 
 * **Associate Researcher**: Ph.D. in Biomedical Engineering or a related field, with multiple first-author/ corresponding author SCI publications and experience in successfully applying for projects preferred.
 
