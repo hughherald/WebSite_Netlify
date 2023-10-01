@@ -12,6 +12,15 @@ header:
   image: ""
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NFT8YCEW9J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NFT8YCEW9J');
+</script>
 
 ## **Welcome to Letswave7**
 Letswave provides multiple functions of the neurophysiological signals processing. 
@@ -22,13 +31,3 @@ Letswave provides multiple functions of the neurophysiological signals processin
 - As compared to other signal processing toolboxes, Letswave is an intuitive and streamlined tool to process and visualize EEG data, with a shallow learning curve.
 
 For more more information, go to the website [letswave.cn](https://letswave.cn/).
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NFT8YCEW9J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-NFT8YCEW9J');
-</script>
