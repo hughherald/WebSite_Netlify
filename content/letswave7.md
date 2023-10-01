@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-<!-- Google tag (gtag.js) -->
+
 
 ## **Welcome to Letswave7**
 Letswave provides multiple functions of the neurophysiological signals processing. 
@@ -23,6 +23,7 @@ Letswave provides multiple functions of the neurophysiological signals processin
 
 For more more information, go to the website [letswave.cn](https://letswave.cn/).
 
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NFT8YCEW9J"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
