@@ -47,10 +47,11 @@ email: huanggan@szu.edu.cn
 superuser: true
 ---
 黄淦，博士毕业于上海交通大学，比利时法语鲁汶大学博士后。他的致力于发展运动、感受相关的鲁棒神经信号解码方法和精准神经调控技术，同时积极将研究成果应用于脑机接口，神经调控以及神经假肢等方面。
-- 在国内外高水平杂志 Neuroimage, Neural Network杂志发表论文40余篇，谷歌学术H指数为20；
-- 担任IEEE TNNLS, TNSRE, TBME, JBHI, JNE, NeuroImage等多个期刊审稿人；
+- Cognitive Neurodynamics副主编, 
+- 在国内外高水平杂志 Neuroimage, Neural Network杂志发表论文65余篇，谷歌学术H指数为31；
+- 担任IEEE TNNLS, TNSRE, TBME, NeuroImage等多个期刊审稿人；
 - 承担国家自然科学基金2项，省市科研项目多项；
-- 2021年获教育部自然科学一等奖（排名第7）；
+- 2021年获教育部自然科学一等奖；
 - 编写脑电信号处理软件 [Letswave7](https://letswave.cn/)。
 
 Huang Gan, Ph.D., graduated from Shanghai Jiao Tong University and completed his postdoctoral fellowship at the University of Louvain in Belgium. Currently, he is an associate professor, distinguished researcher, in School of Biomedical Engineering, Health Science Center, Shenzhen University. Dr. Huang's research primarily revolves around the development of robust neural signal decoding methods in the domains of motor and sensory functions, as well as precise neural modulation technologies. His areas of interest extend to the practical applications of scientific research, encompassing brain-computer interfaces, neural modulation, neural prosthetics, and related fields.
