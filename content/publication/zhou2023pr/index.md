@@ -1,25 +1,28 @@
 ﻿---
-title: A brain-wide genome-wide association study of candidate quantitative trait loci associated with structural and functional phenotypes of pain sensitivity
+title: PR-PL: A Novel Prototypical Representation Based Pairwise Learning Framework for Emotion Recognition Using EEG Signals
 publication_types:
   - "2"
 authors:
-  - Li Zhang
-  - Yiwen Pan
-  - gan-huang
-  - Zhen Liang
-  - Linling Li
-  - Min Zhang
+  - Rushuang Zhou
   - Zhiguo Zhang
--  - Wanrou Hu
-doi: 10.1093/cercor/bhad039
-publication: Cerebral Cortex
-publication_short: Cereb Cortex
-abstract: Individual pain sensitivity is modulated by structural and functional brain features, but its heritability remains unclear. This study conducted a brain-wide genome-wide association study to explore the genetic bases of neuroimaging phenotypes of pain sensitivity. A total of 432 normal participants were divided into high and low pain sensitivity groups according to laser quantitative test threshold. Gray matter density phenotypes associated with pain sensitivity were identified, followed by GWAS on each phenotype using quality-controlled genotypes. Refined analyses focused on the right insula and related resting-state functional connectivity phenotypes. Results suggest that lower right insula gray matter density and multiple candidate loci, including loci at gene CYP2D6, are importantly involved in pain sensitivity modulation and may inform precision pain therapeutics.
+  - Hong Fu
+  - Li Zhang
+  - Linling Li
+  - gan-huang
+  - Fali Li
+  - Xin Yang
+  - Yining Dong
+  - Yuan-Ting Zhang
+  - Zhen Liang
+doi: 10.1109/TAFFC.2023.3288118
+publication: IEEE Transactions on Affective Computing
+publication_short: IEEE TAC
+abstract: EEG-based affective brain-computer interface is an important direction for affective computing, but individual differences and noisy subjective labels limit model effectiveness and generalizability. This study proposes a transfer learning framework with Prototypical Representation based Pairwise Learning (PR-PL), where prototypical learning captures emotion-related semantic structure and aligns cross-individual EEG features into a shared space, and pairwise learning with adaptive pseudo labeling improves tolerance to noisy labels. Extensive experiments on SEED and SEED-IV under multiple cross-validation protocols show stable cross-subject and cross-session performance, with average accuracy improvements over prior methods.
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-03-02T00:00:00.000Z
+date: 2023-06-23T00:00:00.000Z
 ---
