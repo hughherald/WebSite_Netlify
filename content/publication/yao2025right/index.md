@@ -1,27 +1,27 @@
 ﻿---
-title: Decoded EEG neurofeedback-guided cognitive reappraisal training for emotion regulation
+title: Right Frontal Gamma Transcranial Alternating Current Stimulation Modulates Optimism Biases
 publication_types:
   - "2"
 authors:
-  - Linling Li
-  - Xueying Gui
+  - Ziqing Yao
+  - Jinwen Wei
   - gan-huang
-  - Li Zhang
-  - Feng Wan
-  - Xue Han
-  - Jianhong Wang
-  - Dong Ni
+  - Linling Li
   - Zhen Liang
+  - Li Zhang
+  - Haiyan Wu
+  - Tifei Yuan
   - Zhiguo Zhang
-doi: 10.1007/s11571-024-10108-x
-publication: Cognitive Neurodynamics
-publication_short: Cogn Neurodyn
-abstract: Neurofeedback combined with cognitive reappraisal is promising for emotion regulation, but existing studies are mostly based on fMRI and focus primarily on downregulating negative emotions. This study developed a decoded EEG neurofeedback-guided cognitive reappraisal training protocol and evaluated it in healthy participants using low-positive and high-negative picture stimuli. Individualized EEG-based emotion decoders were trained and used to provide real-time feedback signals during regulation. Results showed that the proposed protocol significantly improved emotion regulation for low-positive-valence stimuli, and high-frequency wavelet energy and differential entropy features played key roles in decoding and were associated with neural plasticity changes.
+  - Xiaoqing Hu
+doi: 10.1007/s12264-024-01307-x
+publication: Neuroscience Bulletin
+publication_short: Neurosci Bull
+abstract: Optimism bias is an important cognitive factor in mental health, yet its causal neural modulation remains unclear. This study used a frequency- and sham-controlled design to test whether right frontal transcranial alternating current stimulation modulates optimism bias. Compared with sham and individualized-alpha stimulation, 40 Hz gamma stimulation enhanced delayed optimism bias, with increased right frontal gamma activity during desirable feedback processing. These findings indicate a frequency-specific role of right frontal gamma modulation in belief updating and suggest potential therapeutic relevance for mood-related pessimistic thinking.
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-05-03T00:00:00.000Z
+date: 2024-10-19T00:00:00.000Z
 ---
