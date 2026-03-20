@@ -1,17 +1,16 @@
 ---
-title: Accessing dynamic functional connectivity using 
--regularized sparse-smooth inverse covariance estimation from fMRI
+title: Accessing dynamic functional connectivity using regularized sparse-smooth inverse covariance estimation from fMRI
 publication_types:
   - "2"
 authors:
   - Li Zhang
   - Zening Fu
   - Wenwen Zhang
-  - Gan Huang a b, 
-  - Zhen Liang a b, 
-  - Linling Li a b, 
-  - Bharat B. Biswal d, 
-  - Vince D. Calhoun c, 
+  - Gan Huang, 
+  - Zhen Liang, 
+  - Linling Li, 
+  - Bharat B. Biswal, 
+  - Vince D. Calhoun, 
   - Zhiguo Zhang 
 doi: 10.1016/j.neucom.2021.02.081
 publication: Neurocomputing
