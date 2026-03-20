@@ -1,25 +1,28 @@
 ﻿---
-title: A brain-wide genome-wide association study of candidate quantitative trait loci associated with structural and functional phenotypes of pain sensitivity
+title: Unsupervised Time-Aware Sampling Network With Deep Reinforcement Learning for EEG-Based Emotion Recognition
 publication_types:
   - "2"
 authors:
-  - Li Zhang
-  - Yiwen Pan
-  - gan-huang
-  - Zhen Liang
-  - Linling Li
+  - Yongtao Zhang
+  - Yue Pan
+  - Yulin Zhang
   - Min Zhang
+  - Linling Li
+  - Li Zhang
+  - gan-huang
+  - Lei Su
+  - Honghai Liu
+  - Zhen Liang
   - Zhiguo Zhang
--  - Wanrou Hu
-doi: 10.1093/cercor/bhad039
-publication: Cerebral Cortex
-publication_short: Cereb Cortex
-abstract: Individual pain sensitivity is modulated by structural and functional brain features, but its heritability remains unclear. This study conducted a brain-wide genome-wide association study to explore the genetic bases of neuroimaging phenotypes of pain sensitivity. A total of 432 normal participants were divided into high and low pain sensitivity groups according to laser quantitative test threshold. Gray matter density phenotypes associated with pain sensitivity were identified, followed by GWAS on each phenotype using quality-controlled genotypes. Refined analyses focused on the right insula and related resting-state functional connectivity phenotypes. Results suggest that lower right insula gray matter density and multiple candidate loci, including loci at gene CYP2D6, are importantly involved in pain sensitivity modulation and may inform precision pain therapeutics.
+doi: 10.1109/TAFFC.2023.3319397
+publication: IEEE Transactions on Affective Computing
+publication_short: IEEE TAC
+abstract: Recognizing emotions from complex and non-stationary EEG signals is important for affective brain-computer interfaces, but fixed trial-level labels overlook dynamic emotional changes and introduce misleading supervision. This study proposes an unsupervised Time-Aware Sampling Network (TAS-Net) with deep reinforcement learning to detect key emotion fragments and suppress irrelevant EEG segments. A time-aware agent assigns sample-wise importance scores, preserves top continuous emotion-related fragments, and feeds them into a hypergraph decoding model for clustering-based emotion recognition. Experiments on SEED, DEAP, and MAHNOB-HCI with leave-one-subject-out evaluation demonstrate superior performance over previous unsupervised methods and show strong potential for practical label-free affective BCIs.
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-03-02T00:00:00.000Z
+date: 2023-09-26T00:00:00.000Z
 ---
