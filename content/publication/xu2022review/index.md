@@ -1,23 +1,24 @@
 ﻿---
-title: An Imaging Genetics Study Based on Brain-wide Genome-wide Association for Identifying Quantitative Trait Loci Related to Pain Sensitivity
+title: Review of Affective Detection Based on Functional Magnetic Resonance Imaging
 publication_types:
   - "1"
 authors:
-  - Li Zhang
-  - Yiwen Pan
-  - Gan Huang
-  - Zhen Liang
+  - Shuyue Xu
+  - Yongjie Zhou
   - Linling Li
+  - Li Zhang
+  - gan-huang
   - Zhiguo Zhang
-doi: 10.1109/CISP-BMEI53629.2021.9624435
-publication: 2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)
-publication_short: CISP-BMEI
-abstract: Pain sensitivity has significant individual differences and it is associated with many factors, such as the differentiation of regional structural features of the brain and genetic variation among the population. Until now, a large part of the heritability of pain sensitivity remains unclear. This research focuses on exploring the genetic and neuroimage bases of pain sensitivity. A brain-wide genome-wide association study was carried out on 462 normal subjects, which were divided into high and low pain sensitivity groups according to the cold pain threshold from the cold pressor test. By using voxel-based morphometry (VBM), 116 brain structural features of grey matter (GM) densities were extracted based on high-resolution structural T1-weighted images from magnetic resonance imaging (MRI) scans. Afterward, a genome-wide association study (GWAS) was performed on each phenotype using quality-controlled genotype and analysis data including 755,875 single nucleotide polymorphisms (SNPs). Hierarchical clustering and heat maps were used to demonstrate the GWAS results. Significant associations between SNPs and phenotypes were reported at the threshold (p<10^-6). SNPs in the NECTIN1 gene were identified to be strongly associated with various brain regions, such as the amygdala, hippocampus, and regions at basal ganglia. These results suggest that the imaging genetics study is able to reveal possible candidate genes and loci that may be associated with pain sensitivity.
+  - Zhen Liang
+doi: 10.11999/JEIT210534
+publication: Journal of Electronics & Information Technology
+publication_short: JEIT
+abstract: Emotion is a subjective feeling to internal or external events with positive and negative meanings, and it plays an important role in human daily life. Emotion decoding aims to automatically discriminate different emotional states by decoding physiological signals. By estimating emotion changes, it helps solve practical clinical problems and develop more friendly human-interaction systems. Nowadays, functional magnetic resonance imaging (fMRI)-based emotion decoding is one of the most commonly used methods for deepening the understanding of emotion-related brain dynamics and boosting the development of affective intelligence. This paper reviews current research progress, applications, and major challenges in fMRI-based affective detection, covering experimental design, data acquisition, existing emotion-related fMRI datasets, data processing, feature extraction, emotional pattern learning, and classification.
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-10-01T00:00:00.000Z
+date: 2022-02-01T00:00:00.000Z
 ---

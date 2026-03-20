@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Li Zhang
   - Yiwen Pan
-  - Gan Huang
+  - gan-huang
   - Zhen Liang
   - Linling Li
   - Zhiguo Zhang

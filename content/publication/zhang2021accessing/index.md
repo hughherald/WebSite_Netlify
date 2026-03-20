@@ -6,11 +6,11 @@ authors:
   - Li Zhang
   - Zening Fu
   - Wenwen Zhang
-  - Gan Huang, 
-  - Zhen Liang, 
-  - Linling Li, 
-  - Bharat B. Biswal, 
-  - Vince D. Calhoun, 
+  - gan-huang 
+  - Zhen Liang
+  - Linling Li
+  - Bharat B. Biswal
+  - Vince D. Calhoun
   - Zhiguo Zhang 
 doi: 10.1016/j.neucom.2021.02.081
 publication: Neurocomputing

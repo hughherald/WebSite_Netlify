@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Wanrou Hu
   - Li Zhang
-  - Gan Huang
+  - gan-huang
   - Linling Li
   - Zhiguo Zhang
   - Zhen Liang
