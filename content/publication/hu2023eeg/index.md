@@ -1,7 +1,7 @@
 ---
 title: EEG microstate correlates of emotion dynamics and stimulation content during video watching
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Wanrou Hu
   - Zhiguo Zhang
@@ -20,5 +20,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-02-01T03:57:40.486Z
+date: 2023-02-01T03:57:40.486Z
 ---
