@@ -1,26 +1,27 @@
 ﻿---
-title: Semi-Supervised Dual-Stream Self-Attentive Adversarial Graph Contrastive Learning for Cross-Subject EEG-Based Emotion Recognition
+title: Decoded EEG neurofeedback-guided cognitive reappraisal training for emotion regulation
 publication_types:
   - "2"
 authors:
-  - Weishan Ye
-  - Zhiguo Zhang
-  - Fei Teng
-  - Min Zhang
+  - Linling Li
+  - Xueying Gui
+  - gan-huang
+  - Li Zhang
+  - Feng Wan
+  - Xue Han
   - Jianhong Wang
   - Dong Ni
-  - Fali Li
-  - Peng Xu
   - Zhen Liang
-doi: 10.1109/TAFFC.2024.3433470
-publication: IEEE Transactions on Affective Computing
-publication_short: IEEE TAC
-abstract: EEG-based emotion recognition has wide application potential, but label scarcity remains a major challenge, especially in cross-subject settings. This work proposes a semi-supervised dual-stream self-attentive adversarial graph contrastive learning framework (DS-AGC) that jointly models non-structural and structural EEG features. The non-structural stream performs semi-supervised multi-domain adaptation across labeled source, unlabeled source, and target domains, while the structural stream uses graph contrastive learning to capture inter-channel relationships. A self-attentive fusion module integrates the two streams for emotion recognition. Extensive experiments on SEED, SEED-IV, SEED-V, and FACED demonstrate superior performance under different incomplete-label conditions.
+  - Zhiguo Zhang
+doi: 10.1007/s11571-024-10108-x
+publication: Cognitive Neurodynamics
+publication_short: Cogn Neurodyn
+abstract: Neurofeedback combined with cognitive reappraisal is promising for emotion regulation, but existing studies are mostly based on fMRI and focus primarily on downregulating negative emotions. This study developed a decoded EEG neurofeedback-guided cognitive reappraisal training protocol and evaluated it in healthy participants using low-positive and high-negative picture stimuli. Individualized EEG-based emotion decoders were trained and used to provide real-time feedback signals during regulation. Results showed that the proposed protocol significantly improved emotion regulation for low-positive-valence stimuli, and high-frequency wavelet energy and differential entropy features played key roles in decoding and were associated with neural plasticity changes.
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-07-25T00:00:00.000Z
+date: 2024-05-03T00:00:00.000Z
 ---
